@@ -1,0 +1,27 @@
+
+:root {
+    --white-color: #fff;
+    --primary-color: #40d0d4;
+    --black-color: #000;
+    --contact-nav-height: 46px;
+    --contact-nav-height-tablet-mobile: 69px;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%; 
+    /* 
+        1rem = 10px 
+    */
+    line-height: 1.4rem;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.active {
+    color: #5dd0d4;
+}
+
