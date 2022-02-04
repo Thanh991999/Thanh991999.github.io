@@ -1,0 +1,23 @@
+
+:root {
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #888888;
+    --red-color: #e34444;
+    --border-color:#dddddd;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 1.2rem;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+
+
